@@ -205,3 +205,7 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+관련데이터/
+관련논문/
+!preprocessed_data
