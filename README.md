@@ -3,7 +3,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![GeoPandas](https://img.shields.io/badge/GeoPandas-1.1.2-green.svg)](https://geopandas.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## 📌 Overview
 이 프로젝트는 서울시(특히 마포구)의 유동인구 데이터와 도시 환경 요인을 분석하여, 가로 쓰레기통 설치가 시급한 **고위험군 지역**을 예측하고 최적의 인프라 개선 방안을 제안하는 것을 목표로 합니다.
